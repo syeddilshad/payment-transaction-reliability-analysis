@@ -80,7 +80,7 @@ These findings are specific to the available dataset and should not be generaliz
 
 ## 📸 Dashboard Preview
 
-*Add a screenshot of the completed Power BI dashboard here.*
+![Payment Gateway Reliability Dashboard](dashboard.png)
 
 ## ⚠️ Project Limitations
 
@@ -112,6 +112,8 @@ These findings are specific to the available dataset and should not be generaliz
 ## 🎯 Project Goal
 
 To demonstrate practical Data Analyst skills by combining Python, SQL, and Power BI to investigate payment transaction reliability, analyze failure patterns, and communicate business insights through an interactive dashboard.
+
+
 
 
 
