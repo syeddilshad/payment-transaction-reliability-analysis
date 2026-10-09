@@ -80,7 +80,7 @@ These findings are specific to the available dataset and should not be generaliz
 
 ## 📸 Dashboard Preview
 
-![Payment Gateway Reliability Dashboard](dashboard.png)
+
 
 ## ⚠️ Project Limitations
 
