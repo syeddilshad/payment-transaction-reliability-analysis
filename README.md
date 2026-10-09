@@ -78,10 +78,6 @@ The dashboard connects to PostgreSQL and supports scheduled or manual data refre
 
 These findings are specific to the available dataset and should not be generalized to production payment gateway performance.
 
-## 📸 Dashboard Preview
-
-![Payment Gateway Reliability Dashboard](./dashboard.png)
-
 ## ⚠️ Project Limitations
 
 * The current dataset contains only seven transactions.
